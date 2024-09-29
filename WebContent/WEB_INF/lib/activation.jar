@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/shashirajraja/shopping-cart/refs/heads/master/WebContent/WEB-INF/lib/activation.jar
+
+<!-- https://mvnrepository.com/artifact/javax.activation/activation -->
+<dependency>
+    <groupId>javax.activation</groupId>
+    <artifactId>activation</artifactId>
+    <version>1.1</version>
+</dependency>
